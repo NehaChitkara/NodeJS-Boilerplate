@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-expressjs-boilerplate",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "compression": "^1.7.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.22.2",
+    "mongoose": "^5.9.23",
+    "nodemon": "^1.17.2",
+    "express-validator": "^5.0.3"
+  }
+}
