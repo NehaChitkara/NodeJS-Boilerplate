@@ -1,5 +1,3 @@
-
-
 # Node JS Boilerplate (With Express JS)
 
 Use this boilerplate repository to kickstart your ExpressJS project
@@ -26,5 +24,12 @@ To use the repository, follow the steps as described.
 > OR
 npm start
 
-Happy coding everyone!
+
+##  Use the express-generator for boilerplate code
+
+Another way to create a basic express app is to use the npm module "express-generator"
+
+Check out the steps and the generated app here: [Express Generator Example](https://github.com/NehaChitkara/express-generator-example)
+
+Happy coding!
 
